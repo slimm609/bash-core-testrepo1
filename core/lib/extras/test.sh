@@ -1,4 +1,4 @@
-Test::Core_1() {
+Test::Extras_1() {
   local input=${1}
   local output=${2}
   local optional=${3:-nothing}
